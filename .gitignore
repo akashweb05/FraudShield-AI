@@ -1,0 +1,19 @@
+# Ignore common files and directories
+
+#Python / Backend
+backend/pycache/
+backend/*.pyc
+backend/venv/
+backend/.env
+
+#Node / Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+#VSCode
+.vscode/
+
+#System files
+.DS_Store
+Thumbs.db
