@@ -5,7 +5,7 @@
 ## Project Structure
 
 
-Embedder/
+FraudShield-AI/
 ├─ backend/ # FastAPI backend, database embedding scripts, anomaly detection
 ├─ frontend/ # React.js frontend, demo UI
 
@@ -47,8 +47,8 @@ cd frontend
 npm install
 npm start
 
-##Demo
-[Insert Demo Video Link Here]
+## Demo
+[coming soon]
 
-##License
+## License
 This project is licensed under the MIT License.
