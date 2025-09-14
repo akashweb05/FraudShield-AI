@@ -41,6 +41,7 @@ pip install -r requirements.txt
 cp .env.example .env
 # Fill in your credentials in .env
 python embed_local.py
+```
 
 ### Frontend Setup
 cd frontend
