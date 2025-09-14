@@ -44,9 +44,11 @@ python embed_local.py
 ```
 
 ### Frontend Setup
+```bash
 cd frontend
 npm install
 npm start
+```
 
 ## Demo
 [coming soon]
