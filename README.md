@@ -22,7 +22,7 @@ FraudShield-AI/
 - **Backend:** FastAPI, Pydantic
 - **Machine Learning:** sentence-transformers, scikit-learn
 - **Database:** TiDB Cloud
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, CSS
 - **Security:** SSL/TLS for database connections
 - **Other Tools:** MySQL Connector, python-dotenv, numpy, pandas
 
